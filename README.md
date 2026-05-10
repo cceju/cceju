@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name or Nickname]
+# Hi there! 👋 I'm Javier Cejuela
 
 ### 👨‍💻 Software Engineer | Data Specialist | Python, Swift & Web Developer
 
@@ -8,11 +8,11 @@ I'm a Software Engineer with a strong focus on the **data** ecosystem. I am pass
 
 ### 🚀 About Me
 
-- 🔭 Currently working on: **[Mention your current job, or "Organizing and documenting my project portfolio"]**
+- 🔭 Currently working on: ****
 - 🌱 Currently learning: **Advanced data engineering, scalable architectures, and modern web/mobile technologies.**
 - 💡 I love solving complex problems, transforming raw data into actionable insights, and building accessible interfaces.
 - 💬 Ask me about: **Python, data processing, iOS development (Swift), and full-stack web development.**
-- 📫 How to reach me: **[Your email or LinkedIn link]**
+- 📫 How to reach me: **https://www.linkedin.com/in/javier-c-g-/**
 
 ---
 
