@@ -53,15 +53,16 @@ I am currently uploading and documenting my repositories. My work is mainly divi
 
 ### 📊 GitHub Stats
 
-<!-- NOTE: Replace "YOUR_USERNAME" with your actual GitHub username in the two URLs below -->
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radium&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radium&hide_border=true" />
+  <!-- Reemplaza TU_USUARIO_AQUI por tu nombre de usuario de GitHub -->
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radium&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radium&hide_border=true" />
 </div>
 
 ---
+
 <div align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/javier-c-g-/" target="_blank">
+  <a href="https://www.linkedin.com/in/javier-c-g-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:javiercejuelag@gmail.com">
