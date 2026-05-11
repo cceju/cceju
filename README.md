@@ -8,7 +8,7 @@ I'm a Software Engineer with a strong focus on the **data** ecosystem. I am pass
 
 ### 🚀 About Me
 
-- 🔭 Currently working on: **Developing an app in IOS called FocusBuddy you can check out web in joinfocusbuddy.com**
+- 🔭 Currently working on: **Developing an app in IOS called FocusBuddy you can check out web in https://joinfocusbuddy.com**
 - 🌱 Currently learning: **Advanced data engineering, scalable architectures, and modern web/mobile technologies.**
 - 💡 I love solving complex problems, transforming raw data into actionable insights, and building accessible interfaces.
 - 💬 Ask me about: **Python, data processing, iOS development (Swift), and full-stack web development.**
